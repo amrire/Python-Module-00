@@ -1,4 +1,4 @@
-# Module 00: Python Basics with Object-Oriented Programming
+# Python Module 00: Basics with Object-Oriented Programming
 
 ## Overview
 This module introduces Python programming with a focus on Object-Oriented Programming (OOP) concepts and command-line tools. Through practical exercises, you will build foundational skills, work with classes and objects, and implement interactive applications. 
